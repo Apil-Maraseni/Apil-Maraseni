@@ -7,9 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/apil maraseni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apil maraseni" height="30" width="40" /></a>
-<a href="https://fb.com/apil maraseni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apil maraseni" height="30" width="40" /></a>
-<a href="https://instagram.com/apil_maraseni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apil_maraseni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/apil-maraseni-06381a285?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpjndlt1atrgvdcwaaypfka%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apil-maraseni-06381a285?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bpjndlt1atrgvdcwaaypfka%3d%3d" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/apil.maraseni.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/apil.maraseni.5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
